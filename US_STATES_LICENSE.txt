@@ -1,0 +1,119 @@
+LICENSE: CC-BY-SA 4.0
+======================
+
+Creative Commons Attribution-Share Alike 4.0 International
+
+This dataset is licensed under Creative Commons Attribution-Share Alike 4.0 International.
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+DATASET ATTRIBUTION
+===================
+This dataset contains content derived from Wikipedia, which is licensed under CC-BY-SA 4.0.
+
+Original Source: Wikipedia
+Extraction Date: April 19, 2026
+Python Library: wikipediaapi
+Extracted by: Muhammad Sudais Khalid
+
+HOW TO PROPERLY ATTRIBUTE THIS DATASET
+=======================================
+
+When using this dataset, you must:
+
+1. PROVIDE ATTRIBUTION
+   - Credit Wikipedia and its contributors
+   - Include: "Data from Wikipedia US States Dataset (Retrieved April 19, 2026)"
+
+2. INCLUDE LICENSE
+   - Link to CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+   - Or include the full license text
+
+3. INDICATE CHANGES
+   - If you modified the data, state what changes you made
+
+4. APPLY SAME LICENSE
+   - Any derivative works or datasets must use CC-BY-SA 4.0
+
+EXAMPLE ATTRIBUTION
+===================
+
+Project/Paper Example:
+"This research uses the Wikipedia US States Dataset (extracted April 19, 2026),
+which is derived from Wikipedia content and is licensed under
+CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+Original Wikipedia content is the work of Wikipedia contributors."
+
+Code/Software Example:
+# Data Source: Wikipedia US States Dataset
+# License: CC-BY-SA 4.0
+# Retrieved: April 19, 2026
+# Attribution: Data from Wikipedia (https://www.wikipedia.org)
+
+Jupyter Notebook Example:
+"""
+Data Attribution:
+This dataset contains Wikipedia content for all 50 US states,
+licensed under CC-BY-SA 4.0. See LICENSE.txt for full details.
+"""
+
+WHAT YOU CAN DO (CC-BY-SA 4.0)
+==============================
+✓ Share the dataset
+✓ Use for commercial purposes
+✓ Create derivative works
+✓ Modify and adapt the data
+✓ Use in research projects
+✓ Use in machine learning models
+✓ Distribute the dataset
+✓ Use in educational settings
+✓ Combine with other datasets
+
+WHAT YOU MUST DO (CC-BY-SA 4.0)
+==============================
+✓ Give credit to Wikipedia and contributors
+✓ Include a copy of the license or link to it
+✓ State if you made changes to the data
+✓ Apply CC-BY-SA 4.0 to derivative works
+✓ Make source code available if you modify the data
+✓ Not remove attribution from the original content
+
+WHAT YOU CANNOT DO (CC-BY-SA 4.0)
+=================================
+✗ Remove attribution from the data
+✗ Use with a different license (without proper conversion)
+✗ Claim exclusive rights to the content
+✗ Violate any specific Wikipedia policies
+✗ Claim the data is your original work without attribution
+
+FOR MORE INFORMATION
+====================
+Full CC-BY-SA 4.0 License: https://creativecommons.org/licenses/by-sa/4.0/
+Wikipedia Terms: https://en.wikipedia.org/wiki/Wikipedia:Terms_of_Use
+Creative Commons: https://creativecommons.org/
+Wikipedia Copyright: https://en.wikipedia.org/wiki/Wikipedia:Copyrights
+
+DISCLAIMER
+==========
+This dataset and its contents are provided "AS IS" without warranties or
+conditions of any kind. The dataset creators are not responsible for:
+- The accuracy or completeness of Wikipedia content
+- Changes made by Wikipedia after the extraction date
+- Any issues arising from dataset usage
+- Outdated information
+- Regional disputes or sensitive content
+
+For the most current information, refer to Wikipedia directly.
+
+SPECIAL NOTES
+=============
+- This dataset includes all 50 US states
+- All states were successfully extracted (50/50 verification)
+- Data reflects Wikipedia's state at extraction date
+- No modifications were made to Wikipedia content
+- All files are UTF-8 encoded plain text
+
+=====================================
+Dataset: Wikipedia US States Data
+License: CC-BY-SA 4.0
+Last Updated: April 19, 2026
+=====================================
